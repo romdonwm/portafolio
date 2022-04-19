@@ -141,9 +141,58 @@ main {
   min-height: calc(100vh - 60px); }
   main .icons {
     margin-top: 1rem; }
-    main .icons a {
+    main .icons a i.fab.fa-twitter.fa-2x {
+      color:#00acee;
       padding: 0.4rem; }
-      main .icons a:hover {
+      main .icons a i.fab.fa-twitter.fa-2x:hover {
+        color: #eece1a;
+        transition: all 0.5s ease-out; }
+  main#home {
+    overflow: hidden; }
+    main#home h1 {
+      margin-top: 20vh; }
+
+main {
+  padding: 4rem;
+  min-height: calc(100vh - 60px); }
+  main .icons {
+    margin-top: 1rem; }
+    main .icons a i.fab.fa-facebook.fa-2x {
+      color:#3b5998;
+      padding: 0.4rem; }
+      main .icons a i.fab.fa-facebook.fa-2x:hover {
+        color: #eece1a;
+        transition: all 0.5s ease-out; }
+  main#home {
+    overflow: hidden; }
+    main#home h1 {
+      margin-top: 20vh; }
+
+main {
+  padding: 4rem;
+  min-height: calc(100vh - 60px); }
+  main .icons {
+    margin-top: 1rem; }
+    main .icons a i.fab.fa-linkedin.fa-2x {
+      color:#0e76a8;
+      padding: 0.4rem; }
+      main .icons a i.fab.fa-linkedin.fa-2x:hover {
+        color: #eece1a;
+        transition: all 0.5s ease-out; }
+  main#home {
+    overflow: hidden; }
+    main#home h1 {
+      margin-top: 20vh; }
+
+main {
+  padding: 4rem;
+  min-height: calc(100vh - 60px); }
+  main .icons {
+    margin-top: 1rem; }
+    main .icons a i.fab.fa-github.fa-2x {
+      color:#171515;
+      padding: 0.4rem; }
+      main .icons a i.fab.fa-github.fa-2x:hover {
         color: #eece1a;
         transition: all 0.5s ease-out; }
   main#home {
