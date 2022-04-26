@@ -145,7 +145,7 @@ main {
       color:#00acee;
       padding: 0.4rem; }
       main .icons a i.fab.fa-twitter.fa-2x:hover {
-        color: #eece1a;
+        color: #808080 ;
         transition: all 0.5s ease-out; }
   main#home {
     overflow: hidden; }
@@ -161,7 +161,7 @@ main {
       color:#3b5998;
       padding: 0.4rem; }
       main .icons a i.fab.fa-facebook.fa-2x:hover {
-        color: #eece1a;
+        color: #808080 ;
         transition: all 0.5s ease-out; }
   main#home {
     overflow: hidden; }
