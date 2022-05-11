@@ -1,12 +1,3 @@
-# Build a Portfolio
-I have build a responsive website that will display images. links and description.
-This is my first portfolio project.
+Portafolio para mostrar un resumen de tu perfil a traves de un menu interactivo.
 
-# Files Included
-
-* index.html
-* main.css in css folder
-* Gruntfile.js
-* img folder
-* dist folder
-* package.json
+Igualmente se indican los enlaces a algunas redes sociales.
